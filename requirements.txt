@@ -1,4 +1,4 @@
-fastapi==0.100.0
+Flask
 pydantic==1.10.8
 transformers==4.32.0
 torch==2.0.1
