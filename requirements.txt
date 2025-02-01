@@ -1,0 +1,8 @@
+fastapi==0.100.0
+pydantic==1.10.8
+transformers==4.32.0
+torch==2.0.1
+peft==0.3.0
+langchain==0.100.1
+langchain-community==0.0.5
+uvicorn==0.23.2
